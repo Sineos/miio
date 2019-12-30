@@ -28,7 +28,7 @@
     "debug": "^3.1.0",
     "deep-equal": "^1.0.1",
     "tinkerhub-discovery": "^0.3.1",
-    "yargs": "^10.1.2"
+    "yargs": "^15.0.2"
   },
   "devDependencies": {
     "eslint": "^4.14.0",
